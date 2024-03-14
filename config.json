@@ -1,0 +1,20 @@
+{
+    "sudo": 5108562302,
+    "start_msg": "- بوت رشق الـرعـد بسرعة✓ .\n- رشق, تصويت, تفاعلات, مشاهدات.استفتاء. اسبام اعضاء دخول بوت كل شي د ، ادخل جمع ورشق \n- ملاحظه الرشق يوصلك تلقائي مايحتاج تنتظر",
+    "prices": {
+        "member": 30,
+        "link": 50,
+        "vote": 20,
+        "react": 1,
+        "forward": 1,
+        "view": 1,
+        "poll": 1,
+        "userbot": 10,
+        "linkbot": 15,
+        "linkbot2": 30,
+        "comments": 15,
+        "spam": 10
+    },
+    "bot_token": "7157644857:AAFF5YNsgIzFuGYvcf5elKvsRS3f6Y3dJkM",
+    "give_bot_token":"7091362572:AAGaiWZyAESqCzahG3KQ08bv5NsfH5nZiFU"
+}
